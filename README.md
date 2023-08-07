@@ -31,6 +31,7 @@
 - Visit your app at http://localhost:3000
 
 ### Settings for Mailer and Google Sign In
-- go to environment file in config
-- add your Gmail id and password to use it to send invite mails
-- add Google Oauth 2 credentials for google sign in/up
+- Go to environment file in config
+- Add your Gmail id and password to use it to send invite mails
+- Add Google Oauth 2 credentials for google sign in/up
+- Add a compass to an AWS Cloud environment and store login form data.
