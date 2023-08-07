@@ -1,8 +1,12 @@
 # Login_Form
 ## Screenshots
-#Home Page
+Home Page
 ![Home Page](uploads/Screenshots/Home_page.png "Home Page")
+
+Login In Page
 ![Login In](uploads/Screenshots/Data_Collection_page.png "Log In")
+
+Collection of Data
 ![Data Collect](uploads/Screenshots/Add_EMployee_page.png "Data Collection")
 
 
