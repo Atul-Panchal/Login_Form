@@ -1,5 +1,8 @@
 # Login_Form
-
+## Screenshots
+![Home Page](uploads/Screenshots/Home_page.png "Home Page")
+![Login In](uploads/Screenshots/Data_Collection_page.png "Log In")
+![Data Collect](uploads/Screenshots/Add_EMployee_page.png "Data Collection")
 
 
 ## Technologies Stack:
